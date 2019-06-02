@@ -1,3 +1,8 @@
+/*Carregue um vetor de números reais com 5 posições e desenvolva um programa para encontrar
+ o maior e o menor valor. Após isto, o programa deverá trocar o maior valor com o da primeira
+ posição e o menor valor com o da última posição.*/
+
+
 #include<stdio.h>
 #define tam 5
 int main(){
